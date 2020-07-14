@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+}
+
+@media (min-width: 992px) {
+	.col-lg-4 {
+		float: left;
+		border: 1px solid green;
+		width: 33.33%;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
